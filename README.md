@@ -8,7 +8,9 @@ To use the stylesheet, download the CSS file and link to it:
 ...and to use a particular color (for example, Blue A700), format your element as such:
 
 `div {`
+
 `	background-color: var(--clr-mat-blue-a700);`
+
 `}`
 
 ..which will use the `#2962ff` color.
