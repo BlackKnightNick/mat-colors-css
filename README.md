@@ -3,9 +3,9 @@ This repository contains a stylesheet that has all of the Material Design colors
 
 ## Basic Use
 To use the stylesheet, download the CSS file and link to it:
-`<link rel="stylesheet" href="mat-colors.css">`
+`<link rel="stylesheet" href="mat-colors.css">`.
 
-...and to use a particular color (for example, Blue A700), format your element as such:
+To use a particular color (for example, Blue A700), format your element as such:
 
 ```
 div {
@@ -14,7 +14,7 @@ div {
 }
 ```
 
-..which will use the `#2962ff` color.
+...which will use the `#2962ff` color.
 
 
 ## Light and Dark Variants
