@@ -18,4 +18,4 @@ div {
 
 
 ## Light and Dark Variants
-To use a light or dark variant of a color, simply add "l" or "d" to the end of the variable name. For example: `var(--clr-mat-blue-a700l` will represent `#768fff`.
+To use a light or dark variant of a color, simply add "l" or "d" to the end of the variable name. For example: `var(--clr-mat-blue-a700l)` will represent `#768fff`.
