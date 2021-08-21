@@ -1,4 +1,4 @@
-# mat-color-css
+# mat-colors-css
 This repository contains a stylesheet that has all of the Material Design colors converted to CSS variables.
 
 ## Basic Use
